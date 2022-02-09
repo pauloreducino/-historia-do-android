@@ -55,7 +55,7 @@ header > h1 {
 }
 
 header > p {
-    font-family: var(--fonte-padrao);
+    font-family: var(--fonte-padrao);    
     color: white;
     font-size: 1.2em;
     max-width: 500px;
@@ -63,7 +63,7 @@ header > p {
     padding-left: 10px;
     margin: auto;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.315);
-    margin-bottom: 20px;
+    margin-bottom: auto;
 }
 
 nav {
