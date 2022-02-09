@@ -52,19 +52,16 @@ header > h1 {
     font-weight: normal;
     margin-bottom: 20px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.308);
-    min-width: 300px;
-    max-width: 1000px;
 }
 
 header > p {
-    font-family: var(--fonte-padrao);    
+    font-family: var(--fonte-padrao);
     color: white;
     font-size: 1.2em;
     max-width: 500px;
     padding-right: 10px;
     padding-left: 10px;
     margin: auto;
-    margin-top: auto;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.315);
     margin-bottom: 20px;
 }
