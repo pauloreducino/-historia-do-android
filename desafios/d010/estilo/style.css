@@ -185,8 +185,7 @@ aside > h3 {
 
 aside > ul {
     list-style-type: '\2714\00a0\00a0';
-    list-style-position: inside;
-    columns: 1
+    list-style-position: inside;    
         
 }
 
